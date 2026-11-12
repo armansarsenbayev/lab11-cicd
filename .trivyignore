@@ -1,1 +1,4 @@
+# zlib1g: fixed version not yet in the Debian mirror (checked 2026-11-12).
+# Owner: Твое Имя. Re-check weekly; remove when the base image has the fix.
+CVE-XXXX-XXXXX
 # CVEs we accept on purpose, one per line, each with a reason above it.
